@@ -21,11 +21,8 @@ public class App {
         output("Konto 1: "+ konto1.getKontostand());
         output("Konto 2: "+ konto2.getKontostand());
         output("Konto 3: "+ konto3.getKontostand());
-     
     }
-
     private static void output(String outputStr) {
         System.out.println(outputStr);
     } 
-
 }
