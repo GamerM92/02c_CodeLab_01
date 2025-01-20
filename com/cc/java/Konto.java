@@ -6,8 +6,7 @@ public class Konto {
 
 public Konto(int kontostand){
     this.kontostand= kontostand;
-}
-
+    }
 
     public int getKontostand() {
         return kontostand;
